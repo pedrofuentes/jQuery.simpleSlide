@@ -44,6 +44,25 @@ Specify the element option
 
     });
 
+Options
+-------
+
+* duration
+
+    Set the time that will take to move to the next element
+
+* transition
+
+    Set the time that the fade between elements will take
+
+* stopAt
+
+    Set a limited amount of transitions
+
+* element
+
+    Set the element
+
 Copyright
 ------------
 
