@@ -3,7 +3,7 @@ jQuery SimpleSlide
 
 A simple slide jQuery plugin.
 
-Chek the [original post](http://pedrofuent.es/2009/08/transicion-de-imagenes-o-slideshow-con-jquery/)
+Check the [original post](http://pedrofuent.es/2009/08/transicion-de-imagenes-o-slideshow-con-jquery/)
 
 Overview
 -------
@@ -36,7 +36,7 @@ If you use a different element than images, for example if you are adding links
         <a href="#5"><img src="imagen_5.jpg" alt="Imagen 5" /></a>
     </div>
 
-Specify the element option
+You have to specify the element option
 
     $(document).ready(function(){
 
